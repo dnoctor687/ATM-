@@ -6,6 +6,7 @@ This ATM Simulation project is a key piece of my academic work at university, de
 
 **Objectives**
 
+
 The main goals of this project were to:
 
 Develop a clear understanding of Object-Oriented Programming (OOP) concepts.
